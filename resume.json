@@ -4,7 +4,7 @@
       "label": "Web Developer",
       "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at small companies so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
       "website": "https://ynarwal.com",
-      "email": "ynarwal01@gmial.com",
+      "email": "ynarwal01@gmail.com",
       "location": {
         "city": "Melbourne",
         "countryCode": "AU"
@@ -85,26 +85,26 @@
         ]
       },
       {
-        "summary": "We solve business problems with custom-designed technology.",
-        "website": "https://www.blitzm.com.au/",
-        "company": "Blitzm",
+        "summary": "We are a leading Microsoft Dynamics implementation and support provider.",
+        "website": "http://www.bortell.com.au/",
+        "company": "Botell Dynamic Edge",
         "location": "Melbourne",
-        "position": "Senior Web Developer",
-        "startDate": "2016-07-21",
+        "position": "Software Developer",
+        "startDate": "2014-11-25",
+        "endDate" : "2015-08-20",
         "highlights": [
-          "React, Typescript, Python, C#",
-          "Python/Django/Dotnet core",
-          "Docker/AWS/Kubernetes",
-          "Working on complex data driven web portals"
+          "C#, Dotnet",
+          "CRM API integration",
+          "Working on native windows app"
         ]
       },
       {
         "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
-        "website": "http://ephox.com",
-        "company": "Ephox",
-        "position": "Front-end Developer",
-        "endDate": "2012-06-01",
-        "startDate": "2011-01-01"
+        "website": "https://www.kidsunlimited.com.au/",
+        "company": "Kids Unlimited",
+        "position": "Programming teacher",
+        "endDate": "2015-10-15",
+        "startDate": "2015-08-01"
       }
     ],
     "interests": [
